@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AuthClientMicroService.iml" filepath="$PROJECT_DIR$/.idea/AuthClientMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-auth-service/spring-auth-service.iml" filepath="$PROJECT_DIR$/spring-auth-service/spring-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-client-service/spring-client-service.iml" filepath="$PROJECT_DIR$/../spring-client-service/spring-client-service.iml" />
+    </modules>
+  </component>
+</project>
